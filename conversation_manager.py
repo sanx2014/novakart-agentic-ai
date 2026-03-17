@@ -1,6 +1,8 @@
+from dotenv import load_dotenv
+import os
+load_dotenv()
 from rag_engine import load_vector_store
 from langchain_groq import ChatGroq
-import os
 from guardrails import hallucination_check, policy_violation_check
 from sales_engine import recommend_product
 from escalation_engine import check_escalation
@@ -9,7 +11,7 @@ vectorstore = load_vector_store()
 
 llm = ChatGroq(
     model="llama-3.3-70b-versatile",
-    api_key="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"
+    api_key=os.getenv("GROQ_API_KEY")
 )
 
 

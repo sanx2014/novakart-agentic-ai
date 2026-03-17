@@ -1,6 +1,9 @@
-venv/
+.env
 .venv/
 vectorstore/
 __pycache__/
 .env
 *.pyc
+*.faiss
+*.pkl
+*.bin

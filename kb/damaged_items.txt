@@ -1,0 +1,9 @@
+Handling Damaged Items
+
+If a customer receives a damaged product:
+
+1. The customer must report the issue within 48 hours of delivery.
+2. Photos of the damaged product should be uploaded.
+3. NovaKart will arrange a replacement or refund.
+
+Replacement orders are shipped within 3 business days.

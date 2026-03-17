@@ -1,0 +1,8 @@
+NovaKart Promotions
+
+Customers can receive discounts during seasonal sales.
+
+Current promotions include:
+- 10% off on electronics
+- Free delivery on orders above ₹2000
+- Buy 1 Get 1 on selected accessories

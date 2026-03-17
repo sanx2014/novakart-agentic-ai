@@ -1,0 +1,6 @@
+order_id,customer_name,items,total,status,delivery_date
+2001,Rahul Sharma,"Laptop, Mouse",72000,Delivered,2026-03-14
+2002,Anita Singh,"iPhone 15",85000,Shipped,2026-03-18
+2003,Ajay Kumar,"Sony Headphones",6500,Delivered,2026-03-15
+2004,Neha Verma,"Samsung TV",54000,Preparing,2026-03-20
+2005,Amit Jain,"Gaming Laptop",95000,Delivered,2026-03-10
